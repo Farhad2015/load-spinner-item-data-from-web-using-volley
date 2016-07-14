@@ -1,0 +1,129 @@
+{
+  "response": 200,
+  "message": {
+    "category": [
+      {
+        "id": "1",
+        "title": "Back-end Developer"
+      },
+      {
+        "id": "4",
+        "title": "Business Applications (BI/CRM/ERP)"
+      },
+      {
+        "id": "5",
+        "title": "Data Scientist"
+      },
+      {
+        "id": "6",
+        "title": "DevOps / Sysadmin"
+      },
+      {
+        "id": "7",
+        "title": "Electronics and Telecommunications"
+      },
+      {
+        "id": "8",
+        "title": "Front-end Developer"
+      },
+      {
+        "id": "9",
+        "title": "Full-stack Developer"
+      },
+      {
+        "id": "10",
+        "title": "Maintenance & Support"
+      },
+      {
+        "id": "11",
+        "title": "Marketing & Communications"
+      },
+      {
+        "id": "12",
+        "title": "Mobile Apps Developer"
+      },
+      {
+        "id": "13",
+        "title": "Product/Project Management"
+      },
+      {
+        "id": "14",
+        "title": "QA / Testing"
+      },
+      {
+        "id": "15",
+        "title": "Sales & Operations"
+      },
+      {
+        "id": "16",
+        "title": "UX / UI Designer"
+      },
+      {
+        "id": "17",
+        "title": "Video / Motion Graphics"
+      }
+    ],
+    "industries": [
+      {
+        "id": "1",
+        "title": "Arts & Music"
+      },
+      {
+        "id": "2",
+        "title": "E-commerce"
+      },
+      {
+        "id": "3",
+        "title": "Education"
+      },
+      {
+        "id": "4",
+        "title": "Enterprise & B2B"
+      },
+      {
+        "id": "5",
+        "title": "Entertainment"
+      },
+      {
+        "id": "6",
+        "title": "Fashion & Beauty"
+      },
+      {
+        "id": "7",
+        "title": "Finance"
+      },
+      {
+        "id": "8",
+        "title": "Food & Beverages"
+      },
+      {
+        "id": "9",
+        "title": "Health"
+      },
+      {
+        "id": "10",
+        "title": "Internet of Things (IoT)"
+      },
+      {
+        "id": "11",
+        "title": "Logistics"
+      },
+      {
+        "id": "12",
+        "title": "Media"
+      },
+      {
+        "id": "13",
+        "title": "Miscellaneous"
+      },
+      {
+        "id": "14",
+        "title": "Technology"
+      },
+      {
+        "id": "15",
+        "title": "Travel & Leisure"
+      }
+    ]
+  }
+}
